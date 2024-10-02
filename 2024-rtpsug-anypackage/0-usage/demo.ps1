@@ -71,7 +71,7 @@ Find-Package PSReadLine -Version '[1.0,)'
 # Install, Update, Save use the latest version
 
 # Find package by Path and Uri
-Find-Package -Path c:\test\*
+Find-Package -Path c:\test\*.msu
 Find-Package -LiteralPath C:\test\windows10.0-kb4570334-x64_ba511aeaff89c0d9ed999541909dd50758280132.msu
 
 # Package provider priority
