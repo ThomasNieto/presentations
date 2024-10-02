@@ -1,0 +1,12 @@
+{
+  "name": "Apple",
+  "version": "1.0.0",
+  "description": "Makes a good pie.",
+  "metadata": {
+    "author": "Bob",
+    "something": {
+      "a": 1,
+      "b": 2
+    }
+  }
+}
