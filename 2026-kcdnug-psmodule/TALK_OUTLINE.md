@@ -22,6 +22,7 @@
 - [ ] Cmdlet lifecycle (BeginProcessing, ProcessRecord, EndProcessing)
 - [ ] Moving away from Console.WriteLine → PowerShell streams
 - [ ] Success stream (WriteObject) - main pattern
+  - [ ] Arrays
 - [ ] Error stream & terminating errors
 - [ ] -WhatIf & -Confirm support (ShouldProcess)
 - [ ] Live demo: Building and testing a simple cmdlet
@@ -35,6 +36,7 @@
 - [ ] ValueFromPipeline and ValueFromPipelineByPropertyName
 - [ ] Warning and Verbose streams
 - [ ] Non-terminating errors & error handling patterns
+- [ ] Output type attribute
 - [ ] **Building & Publishing Help:**
   - [ ] Comment-based help in C# (XML documentation)
   - [ ] MAML help generation
