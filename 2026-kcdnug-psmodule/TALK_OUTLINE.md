@@ -33,6 +33,7 @@
 - [ ] Cmdlet aliases and parameter aliases
 - [ ] Parameter validation attributes & best practices
 - [ ] Parameter sets
+- [ ] Switch vs Bool
 - [ ] ValueFromPipeline and ValueFromPipelineByPropertyName
 - [ ] Warning and Verbose streams
 - [ ] Non-terminating errors & error handling patterns
